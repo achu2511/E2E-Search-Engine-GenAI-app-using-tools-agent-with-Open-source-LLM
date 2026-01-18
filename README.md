@@ -105,13 +105,6 @@ If not, open the URL shown in the terminal (usually http://localhost:8501)
 ### ⭐ If you find this project useful, consider giving it a star!
 ---
 
-## If you want, I can:
-- Make it **resume / portfolio optimized**
-- Add **screenshots section**
-- Add **badges (Python, Streamlit, LangChain)**
-- Rewrite it in a **more professional / enterprise style**
-
-## Just tell me 😊
 
 
 
